@@ -1,7 +1,7 @@
-[![Header](https://raw.githubusercontent.com/douglasnacl/<OWNER>/<OWNER>/readme_header.png "Header")](https://)
+![Header](https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/cover.png "Header")
+### Hey guys | E aí pessoal 😀
 
-### Hi there 👋
-
+Meu nome é Douglas Oliveira e sou um desenvolvedor
 <!--
 **douglasnacl/DouglasNaCl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
