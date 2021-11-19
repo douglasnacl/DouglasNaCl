@@ -1,11 +1,11 @@
 ![Header](https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/assets/cover.png "Header")
-## Hey guys | E aí pessoal 😀
+## 😀 Hey guys | E aí pessoal 😀
 
-My name is Douglas Oliveira and I'm an Agribusiness Engineer(Agroindustry Production Engineering), by training. I'm currently studying for  a master’s degree in Computational Modeling in Science and Technology. You can find me on <a href="https://twitter.com/DouglasNaCl"> 
+My name is Douglas Oliveira and I'm a graduated Agribusiness Engineer(Agroindustry Production Engineering). I'm currently studying for a master’s degree in Computational Modeling in Science and Technology. You can find me on <a href="https://twitter.com/DouglasNaCl"> 
 <img src="https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/assets/icons/twitter.png" width="20"/> </a> and also in the <a href="https://www.linkedin.com/in/douglas--oliveira/"> 
 <img src="https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/assets/icons/linkedin.png" width="18"/> </a>.
 
-Meu nome é Douglas Oliveira e sou engenheiro de agronegócios(engenharia de produção com ênfase em agroindústria), por formação. Atualmente estou cursando mestrado em modelagem computacional em ciências e tecnologia. Você pode me encontrar em <a href="https://twitter.com/DouglasNaCl"> 
+Meu nome é Douglas Oliveira e sou graduado em engenharia de agronegócios(engenharia de produção com ênfase em agroindústria). Atualmente estou cursando mestrado em modelagem computacional em ciências e tecnologia. Você pode me encontrar em <a href="https://twitter.com/DouglasNaCl"> 
 <img src="https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/assets/icons/twitter.png" width="20"/> </a> e também no <a href="https://www.linkedin.com/in/douglas--oliveira/"> 
 <img src="https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/assets/icons/linkedin.png" width="18"/> </a>.
 
