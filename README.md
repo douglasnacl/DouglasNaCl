@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/assets/cover.png "Header")
+![Header](https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/assets/cover.png "Header")
 ### Hey guys | E aí pessoal 😀
 
 Meu nome é Douglas Oliveira e sou engenheiro de agronegócios(engenharia de produção com ênfase em agroindústria) e estou cursando mestrado em modelagem computacional em ciências e tecnologia, cuja dissertação está em andamento. 
