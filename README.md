@@ -7,9 +7,5 @@ Meu nome é Douglas Oliveira e sou engenheiro de agronegócios(engenharia de pro
 
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=image/svg%2bxml;base64,<BASE64_DATA>)
 <!--
 **douglasnacl/DouglasNaCl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
