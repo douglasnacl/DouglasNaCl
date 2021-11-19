@@ -1,8 +1,11 @@
 ![Header](https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/assets/cover.png "Header")
 ## Hey guys | E aí pessoal 😀
 
-Meu nome é Douglas Oliveira e sou engenheiro de agronegócios(engenharia de produção com ênfase em agroindústria) e estou cursando mestrado em modelagem computacional em ciências e tecnologia, cuja dissertação está em andamento. Você pode me encontrar em 
-![https://twitter.com/DouglasNaCl](https://camo.githubusercontent.com/f649fe6a8f323f310d270b1f081e988cb21f240c4627baf7f92639f3931e31d5/687474703a2f2f692e696d6775722e636f6d2f77577a583975422e706e67) 
+Meu nome é Douglas Oliveira e sou engenheiro de agronegócios(engenharia de produção com ênfase em agroindústria) e estou cursando mestrado em modelagem computacional em ciências e tecnologia, cuja dissertação está em andamento. Você pode me encontrar em <a href="https://twitter.com/DouglasNaCl"> 
+<img src="https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/assets/icons/twitter.png" width="20"/> </a> e também no <a href="https://www.linkedin.com/in/douglas--oliveira/"> 
+<img src="https://raw.githubusercontent.com/douglasnacl/DouglasNaCl/main/assets/icons/linkedin.png" width="15"/> </a>
+
+
 ## 🔧 Technologies & Tools | Tecnologias & Ferramentas
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
