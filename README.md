@@ -5,8 +5,8 @@ Meu nome é Douglas Oliveira e sou engenheiro de agronegócios(engenharia de pro
 
 ### 🔧 Technologies & Tools | Tecnologias & Ferramentas
 
-![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
+![](https://img.shields.io/badge/OS-LINUX-informational?style=?style=image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Editor-VisualCode-informational?style=?style=image/svg%2bxml&logo=#007ACC;base64,<BASE64_DATA>)
 
 <!--
 **douglasnacl/DouglasNaCl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
